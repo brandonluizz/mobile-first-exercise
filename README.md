@@ -1,2 +1,3 @@
 # projeto-apeperia
-Arquivos do projeto para a Apeperia
+
+Project created in Mobile First Course by Alura
